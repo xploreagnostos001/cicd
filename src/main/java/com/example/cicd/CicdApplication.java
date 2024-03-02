@@ -23,10 +23,10 @@ public class CicdApplication {
 }
 
 
-echo "# cicd" >> README.md
-		git init
-		git add README.md
-		git commit -m "first commit"
-		git branch -M main
-		git remote add origin https://github.com/xploretech001/cicd.git
-		git push -u origin main
+//echo "# cicd" >> README.md
+//		git init
+//		git add README.md
+//		git commit -m "first commit"
+//		git branch -M main
+//		git remote add origin https://github.com/xploreagnostos001/cicd.git
+//		git push -u origin main
